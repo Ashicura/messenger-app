@@ -1,0 +1,17 @@
+.sidebar{
+    width: '255px';
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+}
+
+.tabs{
+    justify-content: center;
+    cursor: pointer;
+}
+
+.tabContent{
+    border-right: 1px solid grey;
+    overflow: auto;
+    flex-grow: 1;
+}

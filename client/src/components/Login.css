@@ -1,0 +1,14 @@
+.align-items-center{
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+
+.form{
+    width: 65vw;   
+}
+
+Button{
+    margin-top: 5px;
+    margin-right: 5px;
+}
